@@ -1,0 +1,7 @@
+СервоБ <Servo.h>
+Серво Servo
+прикрепить attach
+прикрепленЛи attached
+открепить detach
+записать write
+записатьМикросекунды writeMicroseconds
